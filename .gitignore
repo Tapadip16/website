@@ -1,0 +1,11 @@
+# Ignore specific folders
+php/
+.vscode/
+
+# Ignore a specific file
+sent.html
+fiveserver.config.js
+
+# Ignore all Composer files
+composer.json
+composer.lock
